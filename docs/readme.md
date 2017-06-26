@@ -1,6 +1,7 @@
-## Welcome to R1 Landscape
+## Data Science at R1 Institutions in the US
 
-Info on pull requests here
+Below is a list of initiatives, programs, and groups related to data science at the 115 [Research 1 (R1)](https://en.wikipedia.org/wiki/Research_I_university) institutions in the US. We don't assert completion or correctness, but we welcome edits - Submit an [issue](https://github.com/DDD-Moore/datasci-at-R1-institutions/issues) or a [pull request](https://github.com/DDD-Moore/datasci-at-R1-institutions/pulls)!
+
 
 |	Institution			|	Description			|	Category	|	Credential(s)				|
 |:---				|:---				|:---		|:---					|
