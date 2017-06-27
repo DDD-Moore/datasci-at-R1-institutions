@@ -2,7 +2,7 @@
 
 Below is a list of initiatives, programs, and groups related to data science at the 115 [Research 1 (R1)](https://en.wikipedia.org/wiki/Research_I_university) institutions in the US. We don't assert completion or correctness, but we welcome edits - Submit an [issue](https://github.com/DDD-Moore/datasci-at-R1-institutions/issues) or a [pull request](https://github.com/DDD-Moore/datasci-at-R1-institutions/pulls)!
 
-_Credentials key: C = certificate; B = Bachelors; M = Masters; P = PhD_
+_**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 
 
 |	Institution			|	Description	Business?			|	Category	|	Credential(s)				|
@@ -55,7 +55,7 @@ _Credentials key: C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Georgia Institute of Technology	](	http://gatech.edu	) | [	Institute for Data Engineering and Science (IDEaS		](	http://ideas.gatech.edu/	) |	center	|					|
 |[	Georgia Institute of Technology	](	http://gatech.edu	) | [	MS in Analytics		](	http://www.analytics.gatech.edu/	) |	academic program	|			M		|
 |[	Georgia Institute of Technology	](	http://gatech.edu	) | [	MS in Computer Science with specialization in machine learning		](	http://www.cc.gatech.edu/future/masters/mscs/program	) |	academic program	|			M		|
-|[	Georgia State University	](	http://www.gsu.edu	) | [	MS in Analytics		](	http://specialized.robinson.gsu.edu/msa/	) |	academic program	|			M		|
+|[	Georgia State University	](	http://www.gsu.edu	) | [	NA		](	NA	) |		|					|
 |[	Harvard University	](	https://www.harvard.edu	) | [	Data Science at  Institute for Quantitative Social Science		](	http://www.iq.harvard.edu/	) |	group	|					|
 |[	Harvard University	](	https://www.harvard.edu	) | [	Data Science Initiative		](	https://datascience.harvard.edu/	) |	initiative	|					|
 |[	Harvard University	](	https://www.harvard.edu	) | [	Data Wise		](	http://isites.harvard.edu/icb/icb.do?keyword=datawise	) |	group	|					|
@@ -72,7 +72,6 @@ _Credentials key: C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Johns Hopkins University	](	http://www.jhu.edu	) | [	Bioinformatics		](	http://advanced.jhu.edu/academic/biotechnology/ms-in-bioinformatics/	) |	academic program	|			M		|
 |[	Johns Hopkins University	](	http://www.jhu.edu	) | [	Institute for Data Intensive Engineering & Science [IDIES]		](	http://idies.jhu.edu/	) |	center	|					|
 |[	Johns Hopkins University	](	http://www.jhu.edu	) | [	MS in Geographic Information Systems		](	http://advanced.jhu.edu/academics/graduate-degree-programs/geographic-information-systems/	) |	academic program	|			M		|
-|[	Johns Hopkins University	](	http://www.jhu.edu	) | [	MS in Information Systems		](	http://carey.jhu.edu/academics/master-of-science/ms-in-information-systems/	) |	academic program	|			M		|
 |[	Johns Hopkins University	](	http://www.jhu.edu	) | [	Online MS Data Science		](	https://ep.jhu.edu/about-us/news-and-media/online-masters-degree-in-data-science-now-available	) |	academic program (online)	|			M		|
 |[	Kansas State University	](	http://www.k-state.edu/	) | [	NA		](	NA	) |		|					|
 |[	Louisiana State University and Agricultural & Mechanical College	](	http://www.lsu.edu	) | [	NA		](	NA	) |		|					|
@@ -118,7 +117,6 @@ _Credentials key: C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Stanford University	](	http://www.stanford.edu	) | [	MS In Computer Science, Specialization in Information Management and Analytics		](	http://cs.stanford.edu/degrees/mscs/specializations/#IMA	) |	academic program	|			M		|
 |[	Stanford University	](	http://www.stanford.edu	) | [	MS in Data Science		](	https://icme.stanford.edu/academic-programs/ms/data-science	) |	academic program	|			M		|
 |[	Stanford University	](	http://www.stanford.edu	) | [	Stanford Data Science Initiative		](	https://sdsi.stanford.edu/	) |	center	|					|
-|[	Stanford University	](	http://www.stanford.edu	) | [	Stanford Data Insights Club		](	http://www.stanforddatascience.com/	) |	group	|					|
 |[	Stanford University	](	http://www.stanford.edu	) | [	Stanford Dept of Statistics MS in Statistics: Data Science		](	https://statistics.stanford.edu/academics/ms-statistics-data-science	) |	academic program	|			M		|
 |[	Stanford University	](	http://www.stanford.edu	) | [	Stanford Electrical Engineering		](	https://ee.stanford.edu/research/data-science	) |	group	|					|
 |[	Stanford University	](	http://www.stanford.edu	) | [	Stanford Experimental Data Center Laboratory		](	http://sedcl.stanford.edu/	) |	group	|					|
@@ -137,9 +135,7 @@ _Credentials key: C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Tufts University	](	http://www.tufts.edu	) | [	Data-Intensive Studies Center proposal		](	http://provost.tufts.edu/wp-content/uploads/DISC-DRAFT_1005161.pdf	) |	initiative	|					|
 |[	Tulane University of Louisiana	](	http://www.tulane.edu	) | [	Global Biostatistics and Data Science		](	http://www.sph.tulane.edu/gbds/home	) |	department	|			M	, P	|
 |[	University at Buffalo	](	http://www.buffalo.edu	) | [	Engineering MS focus on data science		](	http://engineering.buffalo.edu/home/academics/grad/engineering-sciences.html	) |	academic program	|			M		|
-|[	University of Alabama	](	http://www.ua.edu	) | [	MS degree in Applied Statistics, Data Mining Track		](	https://culverhouse.ua.edu/graduate-programs/master-of-science-in-applied-statistics/	) |	academic program	|			M		|
-|[	University of Alabama	](	http://www.ua.edu	) | [	MS in Marketing, Specialization in Marketing Analytics		](	http://bamabydistance.ua.edu/degrees/ms-in-marketing-with-a-specialization-in-marketing-analytics/index.php	) |	academic program	|			M		|
-|[	University of Alabama	](	http://www.ua.edu	) | [	MS in Operations Management - Decision Analytics Track		](	http://bamabydistance.ua.edu/degrees/ms-in-operations-management-online/curriculum/decision-analytics-track.php	) |	academic program (online)	|			M		|
+|[	University of Alabama	](	http://www.ua.edu	) | [	NA		](	NA	) |		|					|
 |[	University of Arizona	](	http://www.arizona.edu	) | [	NA		](	NA	) |		|					|
 |[	University of Arkansas	](	http://www.uark.edu	) | [	Professional Master of Information Systems		](	http://online.uark.edu/programs/professional-master-information-systems.html	) |	academic program (online)	|			M		|
 |[	University of California-Berkeley	](	http://www.berkeley.edu	) | [	AmpLab		](	https://amplab.cs.berkeley.edu/	) |	group	|					|
