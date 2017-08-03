@@ -104,6 +104,8 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Princeton University	](	http://www.princeton.edu	) | [	Center for Statistics and Machine Learning	](	http://csml.princeton.edu/about	) |	center	|					|
 |[	Purdue University	](	http://www.purdue.edu	) | [	Certificate in Applied Statistics	](	https://engineering.purdue.edu/ProEd/credit/applied_statistics	) |	academic program (online)	|	C				|
 |[	Rice University	](	http://www.rice.edu	) | [	Data Science Initiative	](	https://datascience.rice.edu/	) |	initiative	|					|
+|[	Rutgers University	](	http://www.rutgers.edu	) | [	MS in Data Science Statistics Track	](	http://msds-stat.rutgers.edu/about-the-program/msds-overview	) |	academic program	|			M		|
+|[	Rutgers University	](	http://www.rutgers.edu	) | [	MS in Data Science CS Track	](	https://ms.cs.rutgers.edu/msds/	) |	academic program	|			M		|
 |[	Rutgers University	](	http://www.rutgers.edu	) | [	Online Master of Information	](	http://online.rutgers.edu/master-library-info/	) |	academic program (online)	|			M		|
 |[	Stanford University	](	http://www.stanford.edu	) | [	Biomedical Informatics MS Degree	](	http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240186#searchResults	) |	academic program	|			M		|
 |[	Stanford University	](	http://www.stanford.edu	) | [	Mining Massive Data Sets Graduate Certificate	](	http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=10555807	) |	academic program	|	C				|
