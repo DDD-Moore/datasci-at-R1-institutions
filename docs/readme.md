@@ -2,6 +2,8 @@
 
 Below is a list of initiatives, programs, and groups related to data science at the 115 [Research 1 (R1)](https://en.wikipedia.org/wiki/Research_I_university) institutions in the US. We don't assert completion or correctness, but we welcome edits - Submit an [issue](https://github.com/DDD-Moore/datasci-at-R1-institutions/issues) or a [pull request](https://github.com/DDD-Moore/datasci-at-R1-institutions/pulls)!
 
+Note: We only included programs and centers that closely align with the Moore Foundation [Data-Driven Discovery Initiative](https://www.moore.org/initiative-strategy-detail?initiativeId=data-driven-discovery)'s goals of accelerating the use of data-driven methods for basic research in the natural sciences.
+
 _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 
 
