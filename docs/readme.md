@@ -151,7 +151,8 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	University of California-Irvine	](	http://www.uci.edu	) | [	Data Science Initiative	](	http://datascience.uci.edu/about/	) |	group	|		B	, M		|
 |[	University of California-Los Angeles	](	http://www.ucla.edu	) | [	Masters in Data Science 	](	http://www.msol.ucla.edu/data-science-engineering/?_ga=2.9452277.1718146455.1496337071-1993949433.1496337066	) |	academic program	|			M		|
 |[	University of California-Riverside	](	http://www.ucr.edu	) | [	Online Masters in Data Science	](	http://engineeringonline.ucr.edu/data-science/	) |	academic program (online)	|			M		|
-|[	University of California-San Diego	](	http://www.ucsd.edu	) | [	Data Science Program	](	http://www.ucsd.edu/catalog/curric/DS.html	) |	academic program	|		B	, M		|
+|[	University of California-San Diego	](	http://www.ucsd.edu	) | [	Data Science Program	](	http://www.ucsd.edu/catalog/curric/DS.html	) |	academic program	|		B			|
+|[	University of California-San Diego	](	http://www.ucsd.edu	) | [	Master of Advanced Study in Data Science and Engineering	](	http://jacobsschool.ucsd.edu/mas/dse/	) |	academic program	|			M		|
 |[	University of California-San Diego (Extension)	](	http://www.ucsd.edu	) | [	Data Science & Informatics Certificates	](	https://extension.ucsd.edu/courses-and-programs/data-science-courses	) |	academic program	|	C				|
 |[	University of California-Santa Barbara	](	http://www.ucsb.edu	) | [	Data Science Student Club	](	http://datascience.pstat.ucsb.edu/about.html	) |	group	|					|
 |[	University of California-Santa Cruz	](	http://www.ucsc.edu	) | [	Data Science Initiative	](	https://datascience.ucsc.edu/	) |	group	|					|
