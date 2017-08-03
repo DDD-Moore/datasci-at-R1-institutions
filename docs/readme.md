@@ -239,3 +239,5 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Wayne State University	](	http://www.wayne.edu	) | 	NA			 |		|					|
 |[	West Virginia University	](	http://www.wvu.edu	) | 	NA			 |		|					|
 |[	Yale University	](	http://www.yale.edu	) | [	Departmental Strategic Plan	](	http://news.yale.edu/2017/03/06/introducing-ds2-future-data-science-yale	) |	initiative	|					|
+
+_This list was created by Natalie Caulk and Carly Strasser. [Email us with questions or concerns.](mailto:ddd@moore.org)_
