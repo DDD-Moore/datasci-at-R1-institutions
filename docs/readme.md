@@ -19,7 +19,6 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Boston University	](	http://www.bu.edu	) | [	MS in Computer Science 	](	http://www.bu.edu/csmet/mscs/	) |	academic program	|			M		|
 |[	Brandeis University	](	https://www.brandeis.edu	) | [	MA in Computational Linguistics	](	http://www.brandeis.edu/gsas/programs/comp_ling.html	) |	academic program	|			M		|
 |[	Brandeis University	](	https://www.brandeis.edu	) | [	MS in Strategic Analytics	](	https://www.brandeis.edu/gps/future-students/learn-about-our-programs/strategic-analytics.html	) |	academic program (online)	|			M		|
-|[	Brown University	](	http://www.brown.edu	) | 	NA			 |		|					|
 |[	Brown University	](	http://www.brown.edu	) | [	Data Management Research Group	](	http://database.cs.brown.edu/	) |	group	|					|
 |[	Brown University	](	http://www.brown.edu	) | [	Data Science Initiative	](	https://www.brown.edu/initiatives/data-science/	) |	initiative	|			M		|
 |[	Brown University	](	http://www.brown.edu	) | [	Institute for Computational and Experimental Research in Mathematics	](	https://icerm.brown.edu/home/	) |	center	|					|
