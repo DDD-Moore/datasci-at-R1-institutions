@@ -73,6 +73,7 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Kansas State University	](	http://www.k-state.edu/	) | 	NA			 |		|					|
 |[	Louisiana State University and Agricultural & Mechanical College	](	http://www.lsu.edu	) | 	NA			 |		|					|
 |[	Massachusetts Institute of Technology	](	http://www.mit.edu	) | [	Computer Science and Artificial Intelligence Laboratory	](	https://www.csail.mit.edu/	) |	center	|					|
+|[	Massachusetts Institute of Technology	](	http://www.mit.edu	) | [	Institute for Data, Systems, and Society	](	https://idss.mit.edu	) |	center	|				P	|
 |[	Michigan State University	](	http://www.msu.edu	) | [	Compuational Math, Science, Engineering Department	](	https://cmse.natsci.msu.edu	) |	department 	|		B	, M	, P	|
 |[	Michigan State University	](	http://www.msu.edu	) | [	MS in Applied Statistics	](	https://www.reg.msu.edu/academicprograms/ProgramDetail.asp?Program=3871	) |	academic program	|			M		|
 |[	New York University	](	http://www.nyu.edu	) | [	Advanced Certificate in Applied Urban Science and Informatics	](	http://cusp.nyu.edu/advanced-certificate-in-applied-urban-science-and-informatics/	) |	academic program	|	C				|
