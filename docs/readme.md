@@ -18,7 +18,7 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Boston University	](	http://www.bu.edu	) | [	MS in Computer Information Systems Online (Data Analytics Concentration)	](	http://cisonline.bu.edu/	) |	academic program (online)	|			M		|
 |[	Boston University	](	http://www.bu.edu	) | [	MS in Computer Science 	](	http://www.bu.edu/csmet/mscs/	) |	academic program	|			M		|
 |[	Brandeis University	](	https://www.brandeis.edu	) | [	MA in Computational Linguistics	](	http://www.brandeis.edu/gsas/programs/comp_ling.html	) |	academic program	|			M		|
-|[	Brandeis University	](	https://www.brandeis.edu	) | [	MS in Strategic Analytics	](	https://www.brandeis.edu/gps/future-students/learn-about-our-programs/strategic-analytics.html	) |	academic program (online)	|			M		|
+|[	Brandeis University	](	https://www.brandeis.edu	) | [Online MS in Strategic Analytics](	https://www.brandeis.edu/gps/future-students/learn-about-our-programs/strategic-analytics.html	) |	academic program (online)	|			M		|
 |[	Brown University	](	http://www.brown.edu	) | [	Data Management Research Group	](	http://database.cs.brown.edu/	) |	group	|					|
 |[	Brown University	](	http://www.brown.edu	) | [	Data Science Initiative	](	https://www.brown.edu/initiatives/data-science/	) |	initiative	|			M		|
 |[	Brown University	](	http://www.brown.edu	) | [	Institute for Computational and Experimental Research in Mathematics	](	https://icerm.brown.edu/home/	) |	center	|					|
@@ -51,12 +51,11 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	George Mason University	](	http://www.gmu.edu	) | [	MS in Data Analytics Engineering	](	http://volgenau.gmu.edu/dae	) |	academic program	|			M		|
 |[	George Washington University	](	http://www.gwu.edu	) | [	Data Science Program	](	https://datasci.columbian.gwu.edu/academics-0	) |	academic program	|	C	, B	, M		|
 |[	Georgetown University	](	http://georgetown.edu	) | [	MS in Analytics, Concentration in Data Sciences (MS-DS)	](	http://gradanalytics.georgetown.edu/	) |	academic program	|			M		|
-|[	Georgia Institute of Technology	](	http://gatech.edu	) | [	Institute for Data Engineering and Science (IDEaS	](	http://ideas.gatech.edu/	) |	center	|					|
+|[	Georgia Institute of Technology	](	http://gatech.edu	) | [	Institute for Data Engineering and Science](	http://ideas.gatech.edu/	) |	center	|					|
 |[	Georgia Institute of Technology	](	http://gatech.edu	) | [	MS in Computer Science with specialization in machine learning	](	http://www.cc.gatech.edu/future/masters/mscs/program	) |	academic program	|			M		|
 |[	Georgia State University	](	http://www.gsu.edu	) | 	NA			 |		|					|
 |[	Harvard University	](	https://www.harvard.edu	) | [	Data Science at  Institute for Quantitative Social Science	](	http://www.iq.harvard.edu/	) |	group	|					|
 |[	Harvard University	](	https://www.harvard.edu	) | [	Data Science Initiative	](	https://datascience.harvard.edu/	) |	initiative	|					|
-|[	Harvard University	](	https://www.harvard.edu	) | [	Data Wise	](	http://isites.harvard.edu/icb/icb.do?keyword=datawise	) |	group	|					|
 |[	Harvard University	](	https://www.harvard.edu	) | [	MS Data Science	](	https://www.seas.harvard.edu/programs/graduate/applied-computation/master-of-science-in-data-science	) |	academic program	|			M		|
 |[	Harvard University	](	https://www.harvard.edu	) | [	MS in Computational Biology and Quantitative Genetics	](	http://www.hsph.harvard.edu/sm-computational-biology/	) |	academic program	|			M		|
 |[	Harvard University	](	https://www.harvard.edu	) | [	MS in Computational Science and Engineering	](	http://www.seas.harvard.edu/computational-science-and-engineering/master-science-cse	) |	academic program	|			M		|
@@ -67,7 +66,7 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Iowa State University	](	http://www.iastate.edu	) | [	Data Science Curriculum Committee	](	http://datascience.iastate.edu/	) |	group	|					|
 |[	Iowa State University	](	http://www.iastate.edu	) | [	Presidential Initiative	](	http://www.inside.iastate.edu/article/2015/04/09/bigdata	) |	initiative	|					|
 |[	Johns Hopkins University	](	http://www.jhu.edu	) | [	Bioinformatics	](	http://advanced.jhu.edu/academic/biotechnology/ms-in-bioinformatics/	) |	academic program	|			M		|
-|[	Johns Hopkins University	](	http://www.jhu.edu	) | [	Institute for Data Intensive Engineering & Science [IDIES]	](	http://idies.jhu.edu/	) |	center	|					|
+|[	Johns Hopkins University	](	http://www.jhu.edu	) | [	Institute for Data Intensive Engineering & Science	](	http://idies.jhu.edu/	) |	center	|					|
 |[	Johns Hopkins University	](	http://www.jhu.edu	) | [	MS in Geographic Information Systems	](	http://advanced.jhu.edu/academics/graduate-degree-programs/geographic-information-systems/	) |	academic program	|			M		|
 |[	Johns Hopkins University	](	http://www.jhu.edu	) | [	Online MS Data Science	](	https://ep.jhu.edu/about-us/news-and-media/online-masters-degree-in-data-science-now-available	) |	academic program (online)	|			M		|
 |[	Kansas State University	](	http://www.k-state.edu/	) | 	NA			 |		|					|
