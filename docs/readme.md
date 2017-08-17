@@ -235,6 +235,7 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	University of Wisconsin-Madison	](	http://www.wisc.edu	) | [	MS in Biomedical Data Science	](	https://www.biostat.wisc.edu/content/ms_program_in_biomedical_data_science) |	academic program	|			M		|
 |[	University of Wisconsin-Milwaukee	](	http://www.uwm.edu	) | 	NA			 |		|					|
 |[	Vanderbilt University	](	http://www.vanderbilt.edu	) | [	Data Science Track of BMI PhD program	](	https://medschool.vanderbilt.edu/dbmi/curriculum-overview-data-science-track-bmi-phd-program	) |	academic program	|				P	|
+|[	Vanderbilt University	](	http://www.vanderbilt.edu	) | [	Data Science Visions Trans-Institutional Program	](	https://www.vanderbilt.edu/strategicplan/trans-institutional-programs/tips-2017/data-science-visions.php) |	academic program	|				|
 |[	Virginia Commonwealth University	](	http://www.vcu.edu	) | 	NA			 |		|					|
 |[	Virginia Polytechnic Institute and State University	](	http://www.vt.edu	) | [	Computational Modeling and Data Analytics	](	http://www.ais.science.vt.edu/programs/cmda.html	) |	academic program	|		B			|
 |[	Virginia Polytechnic Institute and State University	](	http://www.vt.edu	) | [	Discovery Analytics Center	](	http://dac.cs.vt.edu/about/	) |	center	|		B	, M	, P	|
