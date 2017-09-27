@@ -106,7 +106,8 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Rutgers University	](	http://www.rutgers.edu	) | [	MS in Data Science Statistics Track	](	http://msds-stat.rutgers.edu/about-the-program/msds-overview	) |	academic program	|			M		|
 |[	Rutgers University	](	http://www.rutgers.edu	) | [	MS in Data Science CS Track	](	https://ms.cs.rutgers.edu/msds/	) |	academic program	|			M		|
 |[	Rutgers University	](	http://www.rutgers.edu	) | [	Online Master of Information	](	http://online.rutgers.edu/master-library-info/	) |	academic program (online)	|			M		|
-|[	Stanford University	](	http://www.stanford.edu	) | [	Biomedical Informatics MS Degree	](	http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240186#searchResults	) |	academic program	|			M		|
+|[	Stanford University	](	http://www.stanford.edu	) | [	Biomedical Informatics MS Degree (online)	](	http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240186#searchResults	) |	academic program	|			M		|
+|[	Stanford University	](	http://www.stanford.edu	) | [	Biomedical Informatics Training Program	](	http://bmi.stanford.edu ) |	academic program	|			M	, P 	|
 |[	Stanford University	](	http://www.stanford.edu	) | [	Mining Massive Data Sets Graduate Certificate	](	http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=10555807	) |	academic program	|	C				|
 |[	Stanford University	](	http://www.stanford.edu	) | [	MS In Computer Science, Specialization in Information Management and Analytics	](	http://cs.stanford.edu/degrees/mscs/specializations/#IMA	) |	academic program	|			M		|
 |[	Stanford University	](	http://www.stanford.edu	) | [	MS in Data Science	](	https://icme.stanford.edu/academic-programs/ms/data-science	) |	academic program	|			M		|
