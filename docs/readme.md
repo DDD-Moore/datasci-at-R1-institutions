@@ -168,7 +168,9 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	University of Colorado Boulder	](	http://www.colorado.edu	) | 	NA			 |		|					|
 |[	University of Connecticut	](	http://www.uconn.edu	) | [	Data Science Initiative	](	http://datascience.uconn.edu/	) |	initiative	|					|
 |[	University of Delaware	](	http://www.udel.edu	) | [	Data Science Initiative	](	https://www.udel.edu/udaily/2017/may/data-science-symposium/	) |	initiative	|					|
+|[	University of Florida	](	http://www.ufl.edu	) | [	Data Science and Informatics	](	http://www.dsiufl.org/ ) |	group	|					|
 |[	University of Florida	](	http://www.ufl.edu	) | [	Data Science Research Lab	](	http://dsr.cise.ufl.edu/	) |	group	|					|
+|[	University of Florida	](	http://www.ufl.edu	) | [	Informatics Institute	](	https://informatics.institute.ufl.edu/	) |	center	|					|
 |[	University of Georgia	](	http://www.uga.edu	) | [	CS Undergrad in Applied Data Science	](	http://www.cs.uga.edu/news-and-events/cs-undergraduate-certificate-applied-data-science	) |	academic program	|		B			|
 |[	University of Hawaii at Manoa	](	http://manoa.hawaii.edu/	) | 	NA			 |		|					|
 |[	University of Houston	](	http://www.uh.edu/	) | 	NA			 |		|					|
