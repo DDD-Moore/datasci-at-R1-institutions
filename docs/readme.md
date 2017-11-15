@@ -94,8 +94,9 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Ohio State University	](	http://www.osu.edu	) | [	Master of Applied Statistics	](	http://www.stat.osu.edu/dept/descriptions-programs/master-applied-statistics/quarters	) |	academic program	|			M		|
 |[	Ohio State University	](	http://www.osu.edu	) | [	Master of Public Health in Biomedical Informatics	](	http://medicine.osu.edu/bmi/education/prospective_students/ms-and-mph-degrees/pages/index.aspx	) |	academic program	|			M		|
 |[	Ohio State University	](	http://www.osu.edu	) | [	Data Analytics Program	](	https://data-analytics.osu.edu/	) |	academic program	|		B			|
-|[	Oregon State University	](	http://www.oregonstate.edu	) | 	NA			 |		|					|
-|[	Pennsylvania State University	](	http://www.psu.edu	) | [	Data Sciences Program	](	http://datasciences.psu.edu/	) |	academic program	|		B			|
+|[	Oregon State University	](	http://www.oregonstate.edu	) | [	Data Science and Engineering Group	](	http://eecs.oregonstate.edu/data-science-and-engineering)	) |	group	|					|
+|[	Oregon State University	](	http://www.oregonstate.edu	) | [	Graduate Minor in Biological Data Science	](	http://cgrb.oregonstate.edu/training/blds	) |	academic program	|					|
+|[	Oregon State University	](	http://www.oregonstate.edu	) | [	Data Analytics Program (online)	](	http://ecampus.oregonstate.edu/online-degrees/graduate/data-analytics/	) |	academic program (online)	|	C		, M		||[	Pennsylvania State University	](	http://www.psu.edu	) | [	Data Sciences Program	](	http://datasciences.psu.edu/	) |	academic program	|		B			|
 |[	Pennsylvania State University	](	http://www.psu.edu	) | [	Graduate Certificate in Applied Statistics	](	http://www.worldcampus.psu.edu/degrees-and-certificates/applied-statistics-certificate/courses	) |	academic program (online)	|	C				|
 |[	Pennsylvania State University	](	http://www.psu.edu	) | [	Master of Applied Statistics	](	http://www.worldcampus.psu.edu/degrees-and-certificates/applied-statistics-masters/overview	) |	academic program (online)	|			M		|
 |[	Pennsylvania State University	](	http://www.psu.edu	) | [	Master of Professional Studies in Data Analytics	](	http://www.worldcampus.psu.edu/degrees-and-certificates/data-analytics-base/overview	) |	academic program (online)	|			M		|
