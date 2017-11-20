@@ -242,13 +242,13 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	University of Wisconsin-Milwaukee	](	http://www.uwm.edu	) | 	NA			 |		|					|
 |[	Vanderbilt University	](	http://www.vanderbilt.edu	) | [	Data Science Track of BMI PhD program	](	https://medschool.vanderbilt.edu/dbmi/curriculum-overview-data-science-track-bmi-phd-program	) |	academic program	|				P	|
 |[	Vanderbilt University	](	http://www.vanderbilt.edu	) | [	Data Science Visions Trans-Institutional Program	](	https://www.vanderbilt.edu/strategicplan/trans-institutional-programs/tips-2017/data-science-visions.php) |	academic program	|				|
-|[	Virginia Commonwealth University	](	http://www.vcu.edu	) | 	NA			 |		|					|
+|[	Virginia Commonwealth University	](	http://www.vcu.edu	) | [	Data Science Lab (VCR Office)	](	https://research.vcu.edu/datascience/	) |	initiative	|					|
 |[	Virginia Polytechnic Institute and State University	](	http://www.vt.edu	) | [	Computational Modeling and Data Analytics	](	http://www.ais.science.vt.edu/programs/cmda.html	) |	academic program	|		B			|
 |[	Virginia Polytechnic Institute and State University	](	http://www.vt.edu	) | [	Discovery Analytics Center	](	http://dac.cs.vt.edu/about/	) |	center	|		B	, M	, P	|
-|[	Washington State University	](	http://www.wsu.edu	) | 	NA			 |		|					|
+|[	Washington State University	](	http://www.wsu.edu	) | [	Data Science research group	](	https://school.eecs.wsu.edu/research/data-science/	) |	group	|					|
 |[	Washington University in St Louis	](	http://www.wustl.edu	) | [	Certificate in Data Mining and Machine Learning	](	https://cse.wustl.edu/graduate/programs/Pages/certificate-in-data-mining-and-machine-learning.aspx	) |	academic program	|	C				|
-|[	Wayne State University	](	http://www.wayne.edu	) | 	NA			 |		|					|
-|[	West Virginia University	](	http://www.wvu.edu	) | 	NA			 |		|					|
+|[	Wayne State University	](	http://www.wayne.edu	) | [	Data Science and Business Analytics (MS Engineering tracks)	](	https://engineering.wayne.edu/data-analytics/	) |	academic program	|			M		|
+|[	West Virginia University	](	http://www.wvu.edu	) | [	Certificate in Applied Statistics	](	http://catalog.wvu.edu/graduate/eberlycollegeofartsandsciences/statistics/#minortext	) |	academic program	|	C				|
 |[	Yale University	](	http://www.yale.edu	) | [	Departmental Strategic Plan	](	http://news.yale.edu/2017/03/06/introducing-ds2-future-data-science-yale	) |	initiative	|					|
 
 _This list was created by Natalie Caulk and Carly Strasser. [Email us with questions or concerns.](mailto:ddd@moore.org)_
