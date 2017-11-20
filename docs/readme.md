@@ -104,6 +104,7 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Pennsylvania State University	](	http://www.psu.edu	) | [	Social Data Analytics	](	http://bdss.psu.edu/education	) |	academic program	|				P	|
 |[	Princeton University	](	http://www.princeton.edu	) | [	Center for Statistics and Machine Learning	](	http://csml.princeton.edu/about	) |	center	|					|
 |[	Purdue University	](	http://www.purdue.edu	) | [	Certificate in Applied Statistics	](	https://engineering.purdue.edu/ProEd/credit/applied_statistics	) |	academic program (online)	|	C				|
+|[	Purdue University	](	http://www.purdue.edu	) | [	Data Science Initiative	](	https://www.purdue.edu/newsroom/purduetoday/releases/2017/Q3/faculty,-staff-input-sought-to-explore-new-data-science-initiative.html) |	initiative	|					|
 |[	Rice University	](	http://www.rice.edu	) | [	Data Science Initiative	](	https://datascience.rice.edu/	) |	initiative	|					|
 |[	Rutgers University	](	http://www.rutgers.edu	) | [	MS in Data Science Statistics Track	](	http://msds-stat.rutgers.edu/about-the-program/msds-overview	) |	academic program	|			M		|
 |[	Rutgers University	](	http://www.rutgers.edu	) | [	MS in Data Science CS Track	](	https://ms.cs.rutgers.edu/msds/	) |	academic program	|			M		|
