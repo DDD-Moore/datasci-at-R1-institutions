@@ -239,6 +239,7 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	University of Wisconsin-Madison	](	http://www.wisc.edu	) | [	Master of Engineering in Applied Computing and Engineering Data Analytics	](	https://epd.wisc.edu/online-degree/applied-computing-and-engineering-data-analytics/	) |	academic program (online)	|			M		|
 |[	University of Wisconsin-Madison	](	http://www.wisc.edu	) | [	MS in Statistics - Data Science	](	https://advanceyourcareer.wisc.edu/degrees/data-science/	) |	academic program	|			M		|
 |[	University of Wisconsin-Madison	](	http://www.wisc.edu	) | [	MS in Biomedical Data Science	](	https://www.biostat.wisc.edu/content/ms_program_in_biomedical_data_science) |	academic program	|			M		|
+|[	University of Wisconsin-Madison	](	http://www.wisc.edu	) | [	PhD in Biomedical Data Science	](	https://www.biostat.wisc.edu/PHD-Biomedical-Data-Science) |	academic program	|			P		|
 |[	University of Wisconsin-Milwaukee	](	http://www.uwm.edu	) | 	NA			 |		|					|
 |[	Vanderbilt University	](	http://www.vanderbilt.edu	) | [	Data Science Track of BMI PhD program	](	https://medschool.vanderbilt.edu/dbmi/curriculum-overview-data-science-track-bmi-phd-program	) |	academic program	|				P	|
 |[	Vanderbilt University	](	http://www.vanderbilt.edu	) | [	Data Science Visions Trans-Institutional Program	](	https://www.vanderbilt.edu/strategicplan/trans-institutional-programs/tips-2017/data-science-visions.php) |	academic program	|				|
