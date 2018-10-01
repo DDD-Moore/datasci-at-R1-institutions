@@ -134,7 +134,7 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Tulane University of Louisiana	](	http://www.tulane.edu	) | [	Global Biostatistics and Data Science	](	http://www.sph.tulane.edu/gbds/home	) |	department	|			M	, P	|
 |[	University at Buffalo	](	http://www.buffalo.edu	) | [	Engineering MS: Data Science	](	http://engineering.buffalo.edu/home/academics/grad/engineering-sciences.html	) |	academic program	|			M		|
 |[	University of Alabama	](	http://www.ua.edu	) | 	NA			 |		|					|
-|[	University of Arizona	](	http://www.arizona.edu	) | 	[Data7 Data Science Institute](https://datascience.arizona.edu/)			 |	institute	|					|
+|[	University of Arizona	](	http://www.arizona.edu	) | 	[Data7 Data Science Institute](https://datascience.arizona.edu/)			 |	center	|					|
 |[	University of Arkansas	](	http://www.uark.edu	) | [	Professional Master of Information Systems	](	http://online.uark.edu/programs/professional-master-information-systems.html	) |	academic program (online)	|			M		|
 |[	University of California-Berkeley	](	http://www.berkeley.edu	) | [	AmpLab	](	https://amplab.cs.berkeley.edu/	) |	group	|					|
 |[	University of California-Berkeley	](	http://www.berkeley.edu	) | [	Berkeley Institute for Data Science	](	http://bids.berkeley.edu/	) |	center	|					|
