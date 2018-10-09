@@ -25,6 +25,7 @@ _**Credentials key:** C = certificate; B = Bachelors; M = Masters; P = PhD_
 |[	Caltech	](	http://www.caltech.edu	) | [	Center for Data Driven Discovery	](	http://cd3.caltech.edu/	) |	center	|					|
 |[	Caltech	](	http://www.caltech.edu	) | [	Graduate Degree in Computing & Mathematical Studies	](	http://www.cms.caltech.edu/academics/grad_cms	) |	academic program	|				P	|
 |[	Caltech	](	http://www.caltech.edu	) | [	Social and Information Sciences Laboratory, Information Science & Technology	](	http://www.sisl.caltech.edu/	) |	group	|					|
+|[	Caltech	](	http://www.caltech.edu	) | [	Undergraduate Degree in Information & Data Sciences	](	http://www.cms.caltech.edu/academics/ugrad_ids	) |	academic program	|				B	|
 |[	Carnegie Mellon University	](	http://www.cmu.edu/	) | [	Machine Learning Department	](	https://www.ml.cmu.edu/prospective-students/index.html	) |	department	|		B	, M	, P	|
 |[	Carnegie Mellon University	](	http://www.cmu.edu/	) | [	Master of Computational Data Science (MCDS)	](	https://mcds.cs.cmu.edu/	) |	academic program	|			M		|
 |[	Carnegie Mellon University	](	http://www.cmu.edu/	) | [	Master of Statistical Practice	](	http://www.stat.cmu.edu/academics/#quicktabs-educational_programs=1	) |	academic program	|			M		|
